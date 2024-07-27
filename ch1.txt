@@ -1,0 +1,1 @@
+hmmm , i wonder why it opened in VS code when the terminal was opened in pycharm
